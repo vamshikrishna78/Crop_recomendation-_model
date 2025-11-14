@@ -1,0 +1,7 @@
+{
+  "Drumstick": {"NPK": "6-6-18", "growth": "6 months", "layer": 1, "emoji": "🌿"},
+  "Banana": {"NPK": "10-5-20", "growth": "10 months", "layer": 2, "emoji": "🍌"},
+  "Pomegranate": {"NPK": "8-8-8", "growth": "2 years", "layer": 3, "emoji": "🍎"},
+  "Cardamom": {"NPK": "75-75-150", "growth": "2.5 years", "layer": 4, "emoji": "🌱"},
+  "Sesbania": {"NPK": "Organic Fixer", "growth": "3 months", "layer": 5, "emoji": "🌾"}
+}
